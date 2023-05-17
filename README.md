@@ -1,1 +1,1 @@
-# gorpc-protos-go
+# github.com/jinjianfeng-chn/goprc protos for go
